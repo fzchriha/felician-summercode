@@ -1,0 +1,126 @@
+CLASS CURRICULUM
+
+Class Topic: Learn Python
+Teacher Name: Fatima-Zahra Chriha
+Teacher Email: fatimazahra.chriha@gmail.com
+
+Class Dates: 05/25/2020 - 06/25/2020
+Format: Monday - Thursday 
+Time (EDT): 3-4:30pm
+
+Overview:
+Day of the week, 05/25/2020:
+Introduction:
+Class icebreakers ( break-out rooms): two truths and one lie / 
+This is not your typical programming class
+You will teach yourself the material using JetBrains Academy curriculum
+Then, you will work on a project for 3 days and submit your code on Github
+Finally, we will meet to review your code and discuss the challenges you faced
+Then, fun activities. It’s a summer program duuh
+Python:
+Easy Projects:
+Semi-week 1: 05/25/2020 to 05/27/2020:
+Project: Zookeeper
+Description: You will create a tool for monitoring animals and their status.
+What you will learn:
+Variables
+Lists
+While loops
+Submission: https://github.com/fzchriha/felician-summercode
+Questions: https://discord.gg/PwZ7KmP 
+Recap 05/28/2020
+
+
+Semi-week 1: 05/28/2020 to 05/31/2020:
+Project: Coffee Machine
+Description: You will code a coffee machine simulator, it asks for which kind of coffee you want, collects the money and shows a notification if you run out of products
+What you will learn:
+Functions
+Loops
+Conditions
+Submission: https://github.com/fzchriha/felician-summercode
+Questions: https://discord.gg/PwZ7KmP 
+
+Recap 06/01/2020
+
+Semi-week 2: 06/01/2020 to 06/03/2020:
+Project: Hangman
+Description: You will code a game where the player has to guess a word, letter by letter, in a limited number of attempts.
+What you will learn:
+Functions
+Tuples & Lists
+Conditions
+Modules in Python
+Submission: https://github.com/fzchriha/felician-summercode
+Questions: https://discord.gg/PwZ7KmP 
+Recap 06/04/2020
+
+Semi-week 2: 06/04/2020 to 06/07/2020:
+Project: Tic-Tac-Toe
+Description: Recreate your childhood game by coding it!
+What you will learn:
+Plan and develop a complex program from scratch
+More functions
+Handling Errors
+Processing user input
+Submission: https://github.com/fzchriha/felician-summercode
+Questions: https://discord.gg/PwZ7KmP 
+Recap 06/08/2020
+
+Medium Projects: Pair Programming
+
+Semi-week 3: 06/08/2020 to 06/10/2020:
+Project: Rock-Paper-Scissors
+Description: You will code a Rock-Paper-Scissors-Lizard-Spock game, a more advanced version of Rock-Paper-Scissors, which can be played against the computer.
+What you will learn:
+Arrays
+Random Library
+Formatted strings
+Algorithms
+Submission: https://github.com/fzchriha/felician-summercode
+Questions: https://discord.gg/PwZ7KmP 
+Recap 06/11/2020
+
+Semi-week 3: 06/11/2020 to 06/14/2020:
+Project: Text-Based Browser
+Description: Sometimes you need to read online documentation or find something on the Internet from the command line or terminal. So, let's use Python to create a text-based browser!
+Handling Protocols
+HTTP
+Python input/output
+HTML Parsing
+Submission: https://github.com/fzchriha/felician-summercode
+Questions: https://discord.gg/PwZ7KmP 
+Recap 06/15/2020
+
+Semi-week 4: 06/15/2020 to 06/17/2020:
+Project: Credit Calculator
+Description: You will create a calculator that will help you decide if you should take that student loan or not...
+Mathematics with Python
+Modules & Libraries
+Submission: https://github.com/fzchriha/felician-summercode
+Questions: https://discord.gg/PwZ7KmP 
+Recap 06/18/2020, end of Python program
+
+
+Algorithms: LeetCode
+	Semi-week 4: 06/18/2020 to 06/21/2020:
+Description: Introduction to fundamental concepts of algorithms, and applying our learning on leetcode challenges
+The big O notation
+Data Structures
+Submission: https://github.com/fzchriha/felician-summercode
+Questions: https://discord.gg/PwZ7KmP 
+Recap 06/22/2020
+
+Semi-week 5: 06/22/2020 to 06/24/2020:
+Description: We are going to cover searching algorithms and get familiarized on how to use them and when.
+Linear Search
+Binary Search
+Jump Search
+Submission: https://github.com/fzchriha/felician-summercode
+Questions: https://discord.gg/PwZ7KmP 
+Recap 06/25/2020, CONGRATULATIONS, WE DID IT !
+
+
+
+
+

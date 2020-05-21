@@ -1,0 +1,27 @@
+CLASS CURRICULUM
+
+Class Topic: Learn Python
+Teacher Name: Fatima-Zahra Chriha
+Teacher Email: fatimazahra.chriha@gmail.com
+
+Class Dates: 05/25/2020 - 06/25/2020
+Format: Monday - Thursday 
+Time (EDT): 3-4:30pm
+
+Algorithms: LeetCode
+	Semi-week 4: 06/18/2020 to 06/21/2020:
+Description: Introduction to fundamental concepts of algorithms, and applying our learning on leetcode challenges
+The big O notation
+Data Structures
+Submission: https://github.com/fzchriha/felician-summercode
+Questions: https://discord.gg/PwZ7KmP 
+Recap 06/22/2020
+
+Semi-week 5: 06/22/2020 to 06/24/2020:
+Description: We are going to cover searching algorithms and get familiarized on how to use them and when.
+Linear Search
+Binary Search
+Jump Search
+Submission: https://github.com/fzchriha/felician-summercode
+Questions: https://discord.gg/PwZ7KmP 
+Recap 06/25/2020, CONGRATULATIONS, WE DID IT !
