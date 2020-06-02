@@ -1,3 +1,5 @@
+#hey fatima! I'm still editing this. I just learned I can resubmit on jetbrains lol. 
+
 import sys #import sys module for exit
 
 water, milk, beans, cups, money = 400, 540, 120, 9, 550
